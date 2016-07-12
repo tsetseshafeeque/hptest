@@ -3,13 +3,15 @@ package com.testing1.programs;
 public class Condition {
 	   public static void main(String args[])
 	   {
-	      char ch,ch1;
+	      char ch,ch1,;
 	 
 	      for( ch = 'a' ; ch <= 'z' ; ch++ ){
 	    	  
 	      
 	    	  System.out.println(ch);
-	    	  System.out.println(ch3);
+	    	  
+	    	 
+	    	  
 	         
 	   }
 	      
